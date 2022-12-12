@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>primeiro-proj</id>
+    <version>1.0.0</version>
+    <authors>primeiro-proj</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\I\source\repos\primeiro-proj\primeiro-proj\bin\Debug\net7.0\primeiro-proj.runtimeconfig.json" target="lib\net7.0\primeiro-proj.runtimeconfig.json" />
+    <file src="C:\Users\I\source\repos\primeiro-proj\primeiro-proj\bin\Debug\net7.0\primeiro-proj.dll" target="lib\net7.0\primeiro-proj.dll" />
+  </files>
+</package>
